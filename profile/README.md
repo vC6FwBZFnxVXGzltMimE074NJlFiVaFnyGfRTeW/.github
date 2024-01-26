@@ -2,7 +2,7 @@
 
 Tutti i segreti sullo sviluppo web lato server e client.
 
-<img src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/copertina.png" alt="Copertina del Libro" />
+<img height="100px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/copertina.png" alt="Copertina del Libro" />
 
 ## Autore
 Daniel E. Miller
