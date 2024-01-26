@@ -13,7 +13,7 @@ Argomenti: Javascript, Python, HTML, CSS, PHP, MySQL, C++, Java.
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client.epub)
 
-<img height="200px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz/blob/main/copertina.png" alt="HTML5 e CSS3 - La guida completa per il Web design" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz/blob/main/copertina.png" alt="HTML5 e CSS3 - La guida completa per il Web design" />
 
 ## HTML5 e CSS3 - La guida completa per il Web design
 
