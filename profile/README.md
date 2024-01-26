@@ -34,8 +34,21 @@ Un libro per imparare velocemente 4 tra i migliori linguaggi per lo sviluppo Web
 
 Autore: Tony Chan
 
-Argomenti: HTML, CSS, Javascript, JQuery, Json e XML
+Argomenti: C#, Java, PHP, Python
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti.epub)
+
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/copertina.png" alt="JavaScript: La guida definitiva facile per tutti" />
+
+## JavaScript: La guida definitiva facile per tutti
+
+Un libro completo per imparare velocemente partendo dalle basi fino agli argomenti avanzati per lo sviluppo esperto
+
+Autore: Tony Chan
+
+Argomenti: Javascript
+
+- [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/JavaScript-la-guida-definitiva-facile-per-tutti.pdf)
+- [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/JavaScript-la-guida-definitiva-facile-per-tutti.epub)
 
