@@ -2,7 +2,7 @@
 
 Tutti i segreti sullo sviluppo web lato server e client.
 
-![Copertina del Libro](blob:null/6762f43d-7c88-4ec9-91a6-682f0fcdeccf)
+<img src="blob:null/6762f43d-7c88-4ec9-91a6-682f0fcdeccf" alt="Copertina del Libro" />
 
 ## Autore
 Daniel E. Miller
