@@ -1,6 +1,6 @@
 # Biblioteca
 
-<img height="200px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/copertina.png" alt="Programmare - Tutti i segreti sullo sviluppo web lato server e client" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/copertina.png" alt="Programmare - Tutti i segreti sullo sviluppo web lato server e client" />
 
 ## Programmare - Tutti i segreti sullo sviluppo web lato server e client
 
