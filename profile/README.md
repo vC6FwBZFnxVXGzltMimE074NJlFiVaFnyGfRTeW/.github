@@ -26,9 +26,9 @@ Argomenti: HTML, CSS, Javascript, JQuery, Json e XML
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz/blob/main/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz/blob/main/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz.epub)
 
-<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/copertina.png" alt="C#, Java, PHP, Python: La guida completa alla programmazione ad oggetti" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/copertina.png" alt="C#, Java, PHP, Python - La guida completa alla programmazione ad oggetti" />
 
-## C#, Java, PHP, Python: La guida completa alla programmazione ad oggetti
+## C#, Java, PHP, Python - La guida completa alla programmazione ad oggetti
 
 Un libro per imparare velocemente 4 tra i migliori linguaggi per lo sviluppo Web lato server con esercizi e tanti esempi
 
@@ -39,9 +39,9 @@ Argomenti: C#, Java, PHP, Python
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti/blob/main/CSharp-Java-PHP-Python-La-guida-completa-alla-programmazione-ad-oggetti.epub)
 
-<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/copertina.png" alt="JavaScript: La guida definitiva facile per tutti" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/copertina.png" alt="JavaScript - La guida definitiva facile per tutti" />
 
-## JavaScript: La guida definitiva facile per tutti
+## JavaScript - La guida definitiva facile per tutti
 
 Un libro completo per imparare velocemente partendo dalle basi fino agli argomenti avanzati per lo sviluppo esperto
 
@@ -51,4 +51,17 @@ Argomenti: Javascript
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/JavaScript-la-guida-definitiva-facile-per-tutti.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/JavaScript-la-guida-definitiva-facile-per-tutti/blob/main/JavaScript-la-guida-definitiva-facile-per-tutti.epub)
+
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/Programmazione-per-Principianti_-2-libri-in-1/blob/main/copertina.png" alt="Programmazione per Principianti - 2 libri in 1" />
+
+## Programmazione per Principianti - 2 libri in 1
+
+Una guida passo-passo per imparare Python, C, SQL. CONTIENE Computer Programming Python e Computer Programming for Beginners
+
+Autore: Tony Chan
+
+Argomenti: C, Python, SQL
+
+- [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/Programmazione-per-Principianti_-2-libri-in-1/blob/main/Programmazione-per-Principianti_-2-libri-in-1.pdf)
+- [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/Programmazione-per-Principianti_-2-libri-in-1/blob/main/Programmazione-per-Principianti_-2-libri-in-1.epub)
 
