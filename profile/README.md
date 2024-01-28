@@ -84,9 +84,9 @@ Argomenti: C, Python, SQL
 
 La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni
 
-Autore: Jack Feller
+Autore: Jack Fellers
 
-Argomenti: C, Python, SQL
+Argomenti: HTML
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni.epub)
@@ -97,9 +97,9 @@ Argomenti: C, Python, SQL
 
 La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni
 
-Autore: Jack Feller
+Autore: Jack Fellers
 
-Argomenti: C, Python, SQL
+Argomenti: CSS
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni.epub)
@@ -110,10 +110,23 @@ Argomenti: C, Python, SQL
 
 La guida completa al web design per progettare e sviluppare siti web in 7 giorni
 
-Autore: Jack Feller
+Autore: Jack Fellers
 
-Argomenti: C, Python, SQL
+Argomenti: HTML, CSS
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni/blob/main/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni/blob/main/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni.epub)
+
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r/blob/main/copertina.png" alt="PHP" />
+
+## PHP
+
+Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r
+
+Autore: Jack Fellers
+
+Argomenti: PHP
+
+- [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r/blob/main/PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r.pdf)
+- [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r/blob/main/PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r.epub)
 

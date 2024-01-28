@@ -69,25 +69,33 @@ function generateCombinedREADME(libri, organization) {
         titolo: "HTML",
         descrizione: "La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni",
         immagineCopertina: "copertina.png",
-        autore: "Jack Feller",
-        argomenti: "C, Python, SQL",
+        autore: "Jack Fellers",
+        argomenti: "HTML",
         repository: "HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni"
       },
       {
         titolo: "CSS",
         descrizione: "La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni",
         immagineCopertina: "copertina.png",
-        autore: "Jack Feller",
-        argomenti: "C, Python, SQL",
+        autore: "Jack Fellers",
+        argomenti: "CSS",
         repository: "CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni"
       },
       {
         titolo: "HTML & CSS",
         descrizione: "La guida completa al web design per progettare e sviluppare siti web in 7 giorni",
         immagineCopertina: "copertina.png",
-        autore: "Jack Feller",
-        argomenti: "C, Python, SQL",
+        autore: "Jack Fellers",
+        argomenti: "HTML, CSS",
         repository: "HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni"
+      },
+      {
+        titolo: "PHP",
+        descrizione: "Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r",
+        immagineCopertina: "copertina.png",
+        autore: "Jack Fellers",
+        argomenti: "PHP",
+        repository: "PHP---Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r"
       },
   ];
   
