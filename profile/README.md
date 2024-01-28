@@ -13,6 +13,19 @@ Argomenti: Javascript, Python, HTML, CSS, PHP, MySQL, C++, Java.
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client/blob/main/PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client.epub)
 
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client/blob/main/copertina.png" alt="SVILUPPO WEB - Scopri la programmazione web design lato client" />
+
+## SVILUPPO WEB - Scopri la programmazione web design lato client
+
+La guida completa per creare fogli di stule, sviluppare siti web e databese. CONTIENE ESEMPI DI CODICE ED ESERCIZI
+
+Autore: Daniel E. Miller
+
+Argomenti: Javascript, HTML, CSS, PHP, MySQL.
+
+- [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client/blob/main/SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client.pdf)
+- [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client/blob/main/SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client.epub)
+
 <img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML5-e-CSS3-La-guida-completa-per-il-Web-design-Un-libro-per-imparare-velocemente-la-programmaz/blob/main/copertina.png" alt="HTML5 e CSS3 - La guida completa per il Web design" />
 
 ## HTML5 e CSS3 - La guida completa per il Web design
