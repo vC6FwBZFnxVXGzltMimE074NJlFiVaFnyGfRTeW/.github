@@ -26,6 +26,14 @@ function generateCombinedREADME(libri, organization) {
       repository: "PROGRAMMARE-Tutti-i-segreti-sullo-sviluppo-web-lato-server-e-client"
     },
     {
+      titolo: "SVILUPPO WEB - Scopri la programmazione web design lato client",
+      descrizione: "La guida completa per creare fogli di stule, sviluppare siti web e databese. CONTIENE ESEMPI DI CODICE ED ESERCIZI",
+      immagineCopertina: "copertina.png",
+      autore: "Daniel E. Miller",
+      argomenti: "Javascript, HTML, CSS, PHP, MySQL.",
+      repository: "SVILUPPO-WEB---Scopri-la-programmazione-web-design-lato-client"
+    },
+    {
       titolo: "HTML5 e CSS3 - La guida completa per il Web design",
       descrizione: "Un libro per imparare velocemente la programmazione e lo sviluppo lato client, con cenni di Javascript, JQuery, Json e XML",
       immagineCopertina: "copertina.png",
