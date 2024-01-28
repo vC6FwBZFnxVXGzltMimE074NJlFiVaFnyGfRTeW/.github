@@ -65,6 +65,14 @@ function generateCombinedREADME(libri, organization) {
         argomenti: "C, Python, SQL",
         repository: "Programmazione-per-Principianti_-2-libri-in-1"
       },
+      {
+        titolo: "HTML - La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni",
+        descrizione: "La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni",
+        immagineCopertina: "copertina.png",
+        autore: "Jack Feller",
+        argomenti: "C, Python, SQL",
+        repository: "HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni"
+      },
   ];
   
   const organization = "vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW";
