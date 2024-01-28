@@ -78,9 +78,9 @@ Argomenti: C, Python, SQL
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/Programmazione-per-Principianti_-2-libri-in-1/blob/main/Programmazione-per-Principianti_-2-libri-in-1.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/Programmazione-per-Principianti_-2-libri-in-1/blob/main/Programmazione-per-Principianti_-2-libri-in-1.epub)
 
-<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/copertina.png" alt="HTML - La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/copertina.png" alt="HTML" />
 
-## HTML - La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni
+## HTML
 
 La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni
 
@@ -91,9 +91,9 @@ Argomenti: C, Python, SQL
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni/blob/main/HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni.epub)
 
-<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/copertina.png" alt="CSS - La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni" />
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/copertina.png" alt="CSS" />
 
-## CSS - La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni
+## CSS
 
 La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni
 
@@ -103,4 +103,17 @@ Argomenti: C, Python, SQL
 
 - [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni.pdf)
 - [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni/blob/main/CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni.epub)
+
+<img height="300px" src="https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni/blob/main/copertina.png" alt="HTML & CSS" />
+
+## HTML & CSS
+
+La guida completa al web design per progettare e sviluppare siti web in 7 giorni
+
+Autore: Jack Feller
+
+Argomenti: C, Python, SQL
+
+- [Sfoglia PDF](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni/blob/main/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni.pdf)
+- [Scarica EPUB](https://github.com/vC6FwBZFnxVXGzltMimE074NJlFiVaFnyGfRTeW/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni/blob/main/HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni.epub)
 

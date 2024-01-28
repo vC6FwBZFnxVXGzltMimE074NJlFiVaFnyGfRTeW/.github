@@ -66,7 +66,7 @@ function generateCombinedREADME(libri, organization) {
         repository: "Programmazione-per-Principianti_-2-libri-in-1"
       },
       {
-        titolo: "HTML - La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni",
+        titolo: "HTML",
         descrizione: "La guida completa allo sviluppo web e web design per programmare siti web in 7 giorni",
         immagineCopertina: "copertina.png",
         autore: "Jack Feller",
@@ -74,12 +74,20 @@ function generateCombinedREADME(libri, organization) {
         repository: "HTML_-La-guida-completa-allo-sviluppo-web-e-web-design-per-programmare-siti-web-in-7-giorni"
       },
       {
-        titolo: "CSS - La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni",
+        titolo: "CSS",
         descrizione: "La guida completa allo sviluppo di fogli di stile e web design per creare siti web in 7 giorni",
         immagineCopertina: "copertina.png",
         autore: "Jack Feller",
         argomenti: "C, Python, SQL",
         repository: "CSS_-La-guida-completa-allo-sviluppo-di-fogli-di-stile-e-web-design-per-creare-siti-web-in-7-giorni"
+      },
+      {
+        titolo: "HTML & CSS",
+        descrizione: "La guida completa al web design per progettare e sviluppare siti web in 7 giorni",
+        immagineCopertina: "copertina.png",
+        autore: "Jack Feller",
+        argomenti: "C, Python, SQL",
+        repository: "HTML-CSS_-La-guida-completa-al-web-design-per-progettare-e-sviluppare-siti-web-in-7-giorni"
       },
   ];
   
