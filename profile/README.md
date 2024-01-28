@@ -121,7 +121,7 @@ Argomenti: HTML, CSS
 
 ## PHP
 
-Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r
+Come diventare produttivi in soli 7 giorni con il manuale pratico e teorico aggiornato sulla prgrammazione web lato server. INCLUSI ESEMPI DI CODICE
 
 Autore: Jack Fellers
 

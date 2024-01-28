@@ -91,7 +91,7 @@ function generateCombinedREADME(libri, organization) {
       },
       {
         titolo: "PHP",
-        descrizione: "Come-diventare-produttivi-in-soli-7-giorni-con-il-manuale-pratico-e-teorico-aggiornato-sulla-r",
+        descrizione: "Come diventare produttivi in soli 7 giorni con il manuale pratico e teorico aggiornato sulla prgrammazione web lato server. INCLUSI ESEMPI DI CODICE",
         immagineCopertina: "copertina.png",
         autore: "Jack Fellers",
         argomenti: "PHP",
